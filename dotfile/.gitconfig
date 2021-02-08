@@ -1,0 +1,12 @@
+[user]
+	email = longh.nguyen@tx-tech.com
+	name = Long Nguyen
+	signingKey = ""
+[core]
+	autocrlf = false
+[gpg]
+	program = gpg
+[commit]
+	gpgSign = false
+[tag]
+	forceSignAnnotated = false
